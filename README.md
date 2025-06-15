@@ -10,7 +10,7 @@ Ceci est la page d'accueil de mon profil  GitHub. Vous y trouverez un aperçu de
 
 ![Tableau de bord Power BI](https://github.com/frjolly/frjolly/blob/main/images/FrancoisJ_Profile_new2.jpg)
 
-**Aperçu de mes [Projets et Réalisations](https://github.com/frjolly/Mes-Projets-et-Realisations)** dans le cadre de ma [Formation BI](https://openclassrooms.com/fr/paths/805-business-intelligence-analyst)
+**Aperçu de mes [Projets et Réalisations](https://github.com/frjolly/Mes-Projets-et-Realisations) dans le cadre de ma [Formation BI](https://openclassrooms.com/fr/paths/805-business-intelligence-analyst)**
 
 🎥 **Session de présentation de création de graphiques sur Power BI [video](https://youtu.be/BdtM3XaFG-0)**
 
