@@ -14,4 +14,7 @@ Ceci est la page d'accueil de mon profil  GitHub. Vous y trouverez un aperçu de
 
 🎥 **Session de présentation de création de graphiques sur Power BI [video](https://youtu.be/BdtM3XaFG-0)**
 
+📊**Tableau de Bord de veille Technologique BI**
+![aero](https://github.com/frjolly/Aeroworld/blob/main/images/VeilleAero2.jpg)
+
 **Candidature Aeroworld simulée [Formation Business intelligence](https://github.com/frjolly/Aeroworld)**
