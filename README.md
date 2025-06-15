@@ -6,7 +6,7 @@ Ceci est la page d'accueil de mon profil  GitHub. Vous y trouverez un aperçu de
 
 ***Chef de projet technique spécialisé en Data***, je possède une expertise solide dans la gestion de projets, allant de la coordination d'équipes R&D internationales au pilotage de projets axés sur l'optimisation de workflows de présentation des données (dashboards et KPIs). Mes rôles précédents de Chef de projet technique R&D, Team Leader Data Performance et Manager d'équipe R&D m'ont permis de développer une maîtrise des aspects techniques et managériaux dans le domaine de la data.
 
-***Tableau de Bord Profil Professionnel Chef de Projet DATA Analyst BI*** 📊
+***Tableau de Bord Profil Professionnel Chef de Projet Technique DATA*** 📊
 
 ![Tableau de bord Power BI](https://github.com/frjolly/frjolly/blob/main/images/FrancoisJ_Profile_new2.jpg)
 
