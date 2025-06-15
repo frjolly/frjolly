@@ -8,7 +8,7 @@ Ceci est la page d'accueil de mon profil  GitHub. Vous y trouverez un aperçu de
 
 ***Tableau de Bord Profil Professionnel Chef de Projet DATA Analyst BI*** 📊
 
-![Tableau de bord Power BI](https://github.com/frjolly/frjolly/blob/main/images/FrancoisJ_Profile_new.jpg)
+![Tableau de bord Power BI](https://github.com/frjolly/frjolly/blob/main/images/FrancoisJ_Profile_new2.jpg)
 
 **Tableau de Bord de mon Profil au format [PowerBI](https://github.com/frjolly/frjolly/blob/main/FrancoisJ_CV_PBI.pbix)**
 
