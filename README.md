@@ -18,4 +18,3 @@ Ceci est la page d'accueil de mon profil  GitHub. Vous y trouverez un aperçu de
 
 ![aero](https://github.com/frjolly/frjolly/blob/main/images/VeilleAero2.jpg)
 
-**Candidature Aeroworld simulée [Formation Business intelligence](https://github.com/frjolly/Aeroworld)**
