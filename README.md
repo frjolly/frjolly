@@ -10,8 +10,6 @@ Ceci est la page d'accueil de mon profil  GitHub. Vous y trouverez un aperçu de
 
 ![Tableau de bord Power BI](https://github.com/frjolly/frjolly/blob/main/images/FrancoisJ_Profile_new2.jpg)
 
-**Tableau de Bord de mon Profil au format [PowerBI](https://github.com/frjolly/frjolly/blob/main/FrancoisJ_CV_PBI.pbix)**
-
 **Aperçu de mes [Projets et Réalisations](https://github.com/frjolly/Mes-Projets-et-Realisations)**
 
 **Candidature Aeroworld simulée [Formation Business intelligence](https://github.com/frjolly/Aeroworld)**
