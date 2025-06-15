@@ -12,4 +12,6 @@ Ceci est la page d'accueil de mon profil  GitHub. Vous y trouverez un aperçu de
 
 **Aperçu de mes [Projets et Réalisations](https://github.com/frjolly/Mes-Projets-et-Realisations)**
 
+🎥 **Session de présentation de création de graphiques sur Power BI [video](https://youtu.be/BdtM3XaFG-0)**
+
 **Candidature Aeroworld simulée [Formation Business intelligence](https://github.com/frjolly/Aeroworld)**
